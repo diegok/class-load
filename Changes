@@ -1,5 +1,7 @@
 {{$NEXT}}
 
+- Capture try() localized exceptions properly on implementation loading. (Diego Kuperman)
+
 0.12     2011-10-25
 
 - Depend on Module::Runtime 0.011+. This fixes problems with Catalyst under
